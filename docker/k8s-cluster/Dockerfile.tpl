@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.19.4
 LABEL maintainer tabsp@qq.com
 USER root
 
